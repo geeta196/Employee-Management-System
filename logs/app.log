@@ -1,0 +1,98 @@
+2026-02-26 13:51:53,140 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 13:51:53,140 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 13:51:53,142 - INFO -  * Restarting with stat
+2026-02-26 13:51:53,838 - WARNING -  * Debugger is active!
+2026-02-26 13:51:53,847 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 13:58:18,190 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\routes.py', reloading
+2026-02-26 13:58:18,277 - INFO -  * Restarting with stat
+2026-02-26 13:58:19,085 - WARNING -  * Debugger is active!
+2026-02-26 13:58:19,091 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 13:58:27,742 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 13:58:27,742 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 13:58:27,743 - INFO -  * Restarting with stat
+2026-02-26 13:58:28,256 - WARNING -  * Debugger is active!
+2026-02-26 13:58:28,263 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 13:59:38,635 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\routes.py', reloading
+2026-02-26 13:59:38,718 - INFO -  * Restarting with stat
+2026-02-26 13:59:39,315 - WARNING -  * Debugger is active!
+2026-02-26 13:59:39,323 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:05:49,377 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\routes.py', reloading
+2026-02-26 14:05:49,455 - INFO -  * Restarting with stat
+2026-02-26 14:05:50,236 - WARNING -  * Debugger is active!
+2026-02-26 14:05:50,242 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:07:10,620 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\app.py', reloading
+2026-02-26 14:07:10,696 - INFO -  * Restarting with stat
+2026-02-26 14:07:11,252 - WARNING -  * Debugger is active!
+2026-02-26 14:07:11,259 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:07:29,536 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:07:29,536 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:07:29,537 - INFO -  * Restarting with stat
+2026-02-26 14:07:30,079 - WARNING -  * Debugger is active!
+2026-02-26 14:07:30,086 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:08:47,521 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\app.py', reloading
+2026-02-26 14:08:47,599 - INFO -  * Restarting with stat
+2026-02-26 14:08:48,201 - WARNING -  * Debugger is active!
+2026-02-26 14:08:48,208 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:08:52,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:08:52,825 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:08:52,825 - INFO -  * Restarting with stat
+2026-02-26 14:08:53,420 - WARNING -  * Debugger is active!
+2026-02-26 14:08:53,427 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:11:57,462 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\routes.py', reloading
+2026-02-26 14:11:57,536 - INFO -  * Restarting with stat
+2026-02-26 14:11:58,115 - WARNING -  * Debugger is active!
+2026-02-26 14:11:58,122 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:12:12,212 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\app.py', reloading
+2026-02-26 14:12:12,304 - INFO -  * Restarting with stat
+2026-02-26 14:12:12,907 - WARNING -  * Debugger is active!
+2026-02-26 14:12:12,915 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:25:00,333 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\app.py', reloading
+2026-02-26 14:25:00,412 - INFO -  * Restarting with stat
+2026-02-26 14:25:01,051 - WARNING -  * Debugger is active!
+2026-02-26 14:25:01,058 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:48:08,598 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\routes.py', reloading
+2026-02-26 14:48:08,829 - INFO -  * Restarting with stat
+2026-02-26 14:48:09,619 - WARNING -  * Debugger is active!
+2026-02-26 14:48:09,632 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:48:15,149 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:48:15,149 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:48:15,150 - INFO -  * Restarting with stat
+2026-02-26 14:48:16,529 - WARNING -  * Debugger is active!
+2026-02-26 14:48:16,565 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:52:21,729 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:52:21,729 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:52:21,731 - INFO -  * Restarting with stat
+2026-02-26 14:52:22,534 - WARNING -  * Debugger is active!
+2026-02-26 14:52:22,543 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:55:14,132 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:55:14,132 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:55:14,133 - INFO -  * Restarting with stat
+2026-02-26 14:55:14,670 - WARNING -  * Debugger is active!
+2026-02-26 14:55:14,677 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:56:55,185 - INFO -  * Detected change in 'E:\\geetaInternship2026\\Employee Management System\\backend\\app.py', reloading
+2026-02-26 14:56:55,278 - INFO -  * Restarting with stat
+2026-02-26 14:56:55,914 - WARNING -  * Debugger is active!
+2026-02-26 14:56:55,920 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:59:37,356 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-26 14:59:37,356 - INFO - [33mPress CTRL+C to quit[0m
+2026-02-26 14:59:37,358 - INFO -  * Restarting with stat
+2026-02-26 14:59:37,866 - WARNING -  * Debugger is active!
+2026-02-26 14:59:37,874 - INFO -  * Debugger PIN: 894-093-268
+2026-02-26 14:59:47,280 - INFO - Incoming: POST /add_employee
+2026-02-26 14:59:47,280 - ERROR - 404 Error
+2026-02-26 14:59:47,280 - INFO - Completed: POST /add_employee Status: 404 Time: 0.0 sec
+2026-02-26 14:59:47,281 - INFO - 127.0.0.1 - - [26/Feb/2026 14:59:47] "[33mPOST /add_employee HTTP/1.1[0m" 404 -
+2026-02-26 15:00:24,054 - INFO - Incoming: POST /employees
+2026-02-26 15:00:24,074 - INFO - Completed: POST /employees Status: 201 Time: 0.019 sec
+2026-02-26 15:00:24,074 - INFO - 127.0.0.1 - - [26/Feb/2026 15:00:24] "[35m[1mPOST /employees HTTP/1.1[0m" 201 -
+2026-02-26 15:01:00,150 - INFO - Incoming: GET /employees
+2026-02-26 15:01:00,156 - INFO - Completed: GET /employees Status: 200 Time: 0.006 sec
+2026-02-26 15:01:00,156 - INFO - 127.0.0.1 - - [26/Feb/2026 15:01:00] "GET /employees HTTP/1.1" 200 -
